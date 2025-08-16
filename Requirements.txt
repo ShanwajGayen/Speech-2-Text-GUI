@@ -1,0 +1,8 @@
+## DEPENDENCIES 
+- speechrecognition
+- pydub
+- tkinter
+- ffmpeg (required by pydub for .mp3 support)
+[Notes]
+- Ensure ffmpeg is installed and added to your system PATH.
+- Internet connection is required for Google Speech API.
