@@ -1,3 +1,14 @@
+Required Python Libraries:-
+| Library           |            Purpose                | 
+| speechrecognition | Core speech-to-text functionality | 
+| pyaudio | Microphone input handling | 
+| tkinter | GUI interface (standard with Python) | 
+| os | File path and system operations (standard) | 
+| datetime | Timestamping transcriptions (standard) | 
+| threading | Non-blocking GUI operations (standard) | 
+| pandas (optional) | CSV logging and batch output formatting | 
+| wave (optional) | Audio file inspection (standard) | 
+
 ## DEPENDENCIES 
 - speechrecognition
 - pydub
@@ -6,3 +17,4 @@
 [Notes]
 - Ensure ffmpeg is installed and added to your system PATH.
 - Internet connection is required for Google Speech API.
+
